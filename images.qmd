@@ -1,0 +1,19 @@
+---
+title: "Adding Images"
+---
+
+## Inserting images using inline notation
+
+### The most simple way to add an image
+
+![](images/hiawatha_bps.png){width="100%"} 
+
+### Inline with custom parameters
+
+Certainly! Here are two paragraphs of coding gibberish:
+
+1. **Recursive Quine Algorithms**: Imagine a self-replicating program that generates its own source code. Recursive quines are like a hall of mirrors in the programming world. They invoke themselves, creating an infinite loop of code inception. The syntax might look like this:
+
+![Coding meme](images/coding_meme.jpg){style="float:right; margin-left: 5%; fig-align:right; width:45%;" fig-alt="\"Coding meme depicting a funny trait about R"}
+
+2. **Quantum Pseudocode**: Quantum computing gibberish involves qubits, superposition, and entanglement. Here's a quantum pseudocode snippet that doesn't actually do anything:
